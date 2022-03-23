@@ -19,7 +19,7 @@ For the purposes of this Privacy Policy:
 - __Account__ means a unique account created for You to access our Service or parts of our Service.
 
 - __Affiliate__ means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
-- __Application__ means the software program provided by the Company downloaded by You on any electronic device, named Tyron
+- __Application__ means the software program provided by the Company downloaded by You on any electronic device, named Lura
 
 
 - __Company__ (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Consumer AI, Harju, Tallinn.
@@ -185,4 +185,4 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 If you have any questions about this Privacy Policy, You can contact us:
 
 
-- By email: hello@tyron.xyz
+- By email: hello@lura.so
